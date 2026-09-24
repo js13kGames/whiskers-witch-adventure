@@ -1,4 +1,8 @@
 ---
+genres:
+  - adventure
+  - action
+  - platformer
 post:
   url: https://roblouie.com/article/1316/the-making-of-whiskers-witch-adventure-js13k-2025/
   date: 2025-09-16
